@@ -1,0 +1,5 @@
+{
+    "location": "/path/to/kubeconfig",
+    "providerSpecificConfig": {
+    }
+}
